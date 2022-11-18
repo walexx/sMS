@@ -1,2 +1,0 @@
-# sMS
-Student Management System
